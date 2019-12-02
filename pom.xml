@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Monopoly</name>
+  <name>MonopolyClone</name>
   <url>http://maven.apache.org</url>
 
   <properties>
