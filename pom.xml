@@ -16,7 +16,7 @@
       <sonar.projectKey>jononekin_MonopolyClone</sonar.projectKey>
   <sonar.organization>jononekin</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>05d259ddd95b667264a530ceae436073a88e428d</sonar.login>
+  <sonar.login>29047b5780b4c909b05a79a7ba872d22b35e900a</sonar.login>
   </properties>
 
   <dependencies>
