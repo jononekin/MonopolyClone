@@ -2,9 +2,10 @@ addons:
   sonarcloud:
     organization: "jononekin"
     token:
-      secure: "247279d4b0b7239b3496b533a45b89d64d828092" # encrypted value of your token
+      secure: "411a6030fead3eeee81ca91bf257a6cdaf2c5eba" # encrypted value of your token
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
-  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar 
- 
+  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar sonar:sonar -Dsonar.projectKey=jononekin_MonopolyClone
+  
+  
