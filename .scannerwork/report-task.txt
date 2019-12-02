@@ -1,0 +1,7 @@
+organization=jononekin
+projectKey=MonopolyClone
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.3038
+dashboardUrl=https://sonarcloud.io/dashboard?id=MonopolyClone
+ceTaskId=AW7GWbkMoQFEForqE8Aw
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW7GWbkMoQFEForqE8Aw

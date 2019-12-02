@@ -1,0 +1,20 @@
+
+,edu.ncsu.monopoly.GameBoard#getCellNumber()Ij
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.java8 8("1*ã
+1j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.java9	 9(¼
+¹
+j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.java9	 9(
+%0java.util.ArrayList"__id***(
+edu.ncsu.monopoly.GameBoard"
+cells¼¹
+j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.java9	 9(	
+%1int"java.util.ArrayList#size()I*
+
+%0java.util.ArrayList2size()"t
+j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.java9 9(
+""B
+edu.ncsu.monopoly.GameBoard

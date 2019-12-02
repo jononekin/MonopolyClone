@@ -1,0 +1,48 @@
+
+;edu.ncsu.monopoly.Player#checkProperty(Ljava/lang/String;)Zg
+]/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/Player.java8 8("5*ß
+3g
+]/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/Player.java< <("q
+g
+]/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/Player.java< <(
+""*”
+4g
+]/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/Player.java: :(»
+¸
+g
+]/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/Player.java: :(
+%2java.util.ArrayList"__id*,**
+edu.ncsu.monopoly.Player"
+
+propertiesßÜ
+g
+]/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/Player.java: :(&
+%3java.lang.Object",java.util.ArrayList#get(I)Ljava/lang/Object;*
+
+%2java.util.ArrayList*
+""2get(I)*
+3
+5*î
+5g
+]/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/Player.java9 9(»
+¸
+g
+]/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/Player.java9 9(
+%0java.util.ArrayList"__id*,**
+edu.ncsu.monopoly.Player"
+
+properties¹¶
+g
+]/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/Player.java9 9(!	
+%1int"java.util.ArrayList#size()I*
+
+%0java.util.ArrayList2size()*
+4
+1*ß
+1g
+]/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/Player.java?	 ?("q
+g
+]/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/Player.java? ?(
+"":
+propertyjava.lang.StringB
+edu.ncsu.monopoly.Player

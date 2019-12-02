@@ -1,0 +1,48 @@
+
+Jedu.ncsu.monopoly.GameBoard#getPropertyNumberForColor(Ljava/lang/String;)Ij
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.javaM M(%"3*¬
+2j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.javaP
+ P(ÄÁ
+j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.javaP
+ P(	
+%2int"java.lang.Integer#intValue()I*
+
+numberjava.lang.Integer2
+intValue()"t
+j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.javaP P(
+""*¸
+3j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.javaN N('Â
+¿
+j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.javaN N('
+%0java.util.Hashtable"__id*0*.
+edu.ncsu.monopoly.GameBoard"
+colorGroupsÊ
+Ç
+j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.javaN N(1
+%1java.lang.Object"__mapGet*
+
+%0java.util.Hashtable*
+
+namejava.lang.String¬
+©
+j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.javaN N(2
+numberjava.lang.Integer"__id*
+
+%1java.lang.Object*
+2
+1*å
+1j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.javaR	 R(
+"t
+j
+`/Users/joniturrioz/Documents/GitHub/MonopolyClone/src/main/java/edu/ncsu/monopoly/GameBoard.javaR R(
+"":
+namejava.lang.StringB
+edu.ncsu.monopoly.GameBoard
