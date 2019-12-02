@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>iso2</groupId>
-  <artifactId>Monopoly</artifactId>
+  <artifactId>MonopolyClone</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
